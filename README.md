@@ -2,9 +2,6 @@
 
 ## 💻 Web Developer | Industrial Automation | OPC Integration
 
-
-## 🧠 About Me
-
 Soy desarrollador web con +5 años de experiencia creando aplicaciones y plataformas digitales enfocadas en rendimiento, claridad y utilidad real.
 
 Actualmente trabajo en el mundo de la automatización industrial, conectando aplicaciones web con sistemas técnicos y procesos industriales. 
