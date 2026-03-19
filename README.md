@@ -1,9 +1,9 @@
-👋 Hey, I'm Juanan
+## 👋 Hey, I'm Juanan
 
-💻 Web Developer | Industrial Automation | OPC Integration
-🔥 Always cookin’ 
+## 💻 Web Developer | Industrial Automation | OPC Integration
 
-🧠 About Me
+
+## 🧠 About Me
 
 Soy desarrollador web con +5 años de experiencia creando aplicaciones y plataformas digitales enfocadas en rendimiento, claridad y utilidad real.
 
